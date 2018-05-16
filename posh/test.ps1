@@ -1,7 +1,7 @@
-[CmdletBinding()]
-Param (
-  [Param(Mandatory=$true)]
-  [string]$CIToolName
-)
+# [CmdletBinding()]
+# Param (
+#   [Param(Mandatory=$true)]
+#   [string]$CIToolName
+# )
 
-Write-Output 'WElcome to ' + $CITool 
+Write-Output 'WElcome to Jenkins' 
