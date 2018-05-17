@@ -5,3 +5,4 @@
 # )
 
 Write-Output 'WElcome to Jenkins' 
+New-Item D:\jenkins\AnEmptyFile.txt -ItemType file
